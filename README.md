@@ -2,6 +2,6 @@ The work is for the final project of CS231N of Stanford Univeristy.
 There's a demo used the RGB data and Lidar data in Singapore to get the waypoint prediction:
 <video src="[./video.mp4](https://github.com/ziyu0425/Transfuser/blob/main/video.mp4)" controls="controls" width="500px"></video>
 
-For detail information please take a look of project final paper in paper.pdf.
+For detail information please take a look of project final paper in final_project_paper.pdf.
 
 
